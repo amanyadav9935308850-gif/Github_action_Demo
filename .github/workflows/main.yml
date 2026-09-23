@@ -1,0 +1,8 @@
+"name": "Hello world",
+"on": null,
+"push": null,
+"workflow dispatch": null,
+"jobs": null,
+"hello": "runs-on:ubuntu-latest",
+"step:-name": "Print Hello World",
+"run": "echo \"Hello World\""
